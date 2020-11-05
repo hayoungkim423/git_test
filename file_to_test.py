@@ -2,3 +2,5 @@
 'added by t'
 'added by test'
 'fixed typo'
+'fixed typo1'
+'fixed typo2'
